@@ -46,4 +46,4 @@ Finally, a trigger can be scheduled to execute the task periodically.
 
 ## Author 🐒
 
-* javiersainzmaza@gmail.com
+* Javier Sainz Maza
